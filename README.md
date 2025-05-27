@@ -32,8 +32,4 @@ Além disso, este projeto reforça a prática de criar e utilizar o método `mai
 ```bash
 
 javac Calculator.java
-3.Execute o programa:
 
-```bash
-
-java Calculator
